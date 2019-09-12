@@ -288,6 +288,10 @@
         } else {
           alert("Please fill out all fields before submitting!");
         }
+
+        $.ajax("/api/friends", { type: "GET" }).then(function(data) {
+          console.log(data);
+        });
       });
     </script>
   </body>

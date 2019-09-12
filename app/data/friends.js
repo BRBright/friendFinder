@@ -10,7 +10,7 @@ var friendsArray = [
     scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1]
   },
   {
-    name: "Booby Hill",
+    name: "Bobby Hill",
     photo:
       "https://imgix.ranker.com/user_node_img/50091/1001810212/original/he-admitted-finding-certain-men-attractive-photo-u1?w=650&q=50&fm=pjpg&fit=crop&crop=faces",
     scores: [5, 4, 2, 1, 2, 1, 3, 5, 3, 3]
